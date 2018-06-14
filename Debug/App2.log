@@ -1,0 +1,10 @@
+﻿  AlbumPage.xaml.cpp
+  BasicOAuthOperations.cpp
+  MainPage.xaml.cpp
+  PostToFeedPage.xaml.cpp
+  SendPage.xaml.cpp
+  UserProfile.xaml.cpp
+c:\users\desmond1999d\source\repos\app2\app2\albumpage.xaml.cpp(74): warning C4018: '<': signed/unsigned mismatch
+  XamlTypeInfo.g.cpp
+     Creating library C:\Users\desmond1999d\source\repos\App2\Debug\App2\App2.lib and object C:\Users\desmond1999d\source\repos\App2\Debug\App2\App2.exp
+  App2.vcxproj -> C:\Users\desmond1999d\source\repos\App2\Debug\App2\App2.exe
